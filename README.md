@@ -26,6 +26,14 @@
         <li>Users can input two numbers and an operator to get the result of the operation.</li>
       </ol>
     </li>
+    <li>
+    <h3>TicTacToe Game</h3>
+    <ol>
+      <li>TicTacToe game allows 2 palyers to input their moves by specifying rows and columns. </li>
+      <li>The program validates the input and updates the game board accordingly.</li>
+      <li>After each move, it checks for win conditions or a draw.</li>
+      <li>If a win or draw occurs, the game ends, and the outcome is displayed.</li>
    </ol>
+    </li>
 </body>
 </html>
